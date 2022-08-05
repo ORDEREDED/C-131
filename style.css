@@ -1,0 +1,33 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+animation-name:backyardians;
+animation-iteration-count:infinite;
+animation-duration:4s;
+}
+
+@keyframes backyadians{
+0%{
+box-shadow:5px 5px 50px rebeccapurple;
+}
+25%{
+box-shadow:5px 5px 50px blue;
+};
+}
+
+
+
+
+
+
